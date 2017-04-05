@@ -1,4 +1,4 @@
-
+var val = "hello";
 
 function validate()
 {
